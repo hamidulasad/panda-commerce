@@ -1,6 +1,22 @@
-body{
-    background-color:black;
-}
-.orange-bg{
+.carousel-item{
+    padding:20px 40px;
     background-color:#FEEAE9;
+    border-radius:10px;
+}
+
+.container{
+    margin-bottom:100px;
+}
+
+}
+.price{
+    color:#E63F84;
+}
+button{
+    background-color:#E63F84;
+    margin:0;
+    padding:9px 25px;
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
 }

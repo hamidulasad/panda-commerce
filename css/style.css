@@ -20,3 +20,40 @@ button{
     border-radius:8px;
     cursor:pointer;
 }
+.catagorize h1{
+    color:white;
+}
+.catagorize img{
+    width:100px;
+}
+.cat1{
+    background-color:orange;
+}
+.cat2{
+    background-color:orchid;
+}
+.cat3{
+    background-color:blue;
+}
+.cat1,.cat2,.cat3{
+    padding:10px 30px;
+    border-radius:10px;
+
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+   
+}
+#subscribe{
+    background-color:#FCEAE8;
+    height:300px;
+    
+}
+h6{
+    color:gray;
+}
+footer{
+    color:gray;
+    text-align:center;
+}
